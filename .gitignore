@@ -1,0 +1,20 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User files
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
